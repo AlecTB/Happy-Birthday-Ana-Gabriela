@@ -1,9 +1,9 @@
 #🎂🎁✨ Realidad Aumentada - Proyecto de Cumpleaños - Ana Gabriela Huanaco Churata ✨🎁🎂
 
 ```
-                                  *     *     *    *    *    *    *     *     *
-                              *           🎉   ¡Feliz cumpleaños! 🎉             *
-                                  *     *     *    *    *    *    *     *     *
+                   *     *     *    *    *    *    *     *     *
+               *           🎉   ¡Feliz cumpleaños! 🎉             *
+                   *     *     *    *    *    *    *     *     *
 ```
  🧡 Este proyecto fue creado con mucho cariño para una persona muy especial, con motivo de su ***25º cumpleaños***. 
  
