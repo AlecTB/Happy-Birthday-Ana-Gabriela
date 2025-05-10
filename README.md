@@ -66,3 +66,4 @@
 4. ¡Disfruta y espero que te guste las tarjetas en forma de video! 🎬
 
 ## 🌐 Descargar la aplicación
+<https://github.com/AlecTB/Happy-Birthday-Ana-Gabriela/releases/tag/AR-Mobile-Aplication>
